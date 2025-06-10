@@ -1,0 +1,32 @@
+# Fitness & Wellness App Database (MySQL)
+
+This is a MySQL-based relational database project for a fitness and wellness tracking app. The system was designed as a group class project to support features like user registration, trainer management, workout tracking, diet plans, and subscription processing.
+
+## 👨‍👩‍👧‍👦 Team Members
+- Nordine Djema *(Lead database developer & schema designer)*
+- Abdul
+- Yannis
+- Amina
+- Emmanuel
+
+## 📋 Features Modeled
+- User profile registration & unique email enforcement
+- Workout & diet plan assignment by certified trainers
+- Body metrics and fitness progress logging
+- Subscription tiers with payment tracking
+- Secure database constraints and entity relationships
+
+## 🗂️ Files Included
+- `create_tables.sql` — All CREATE TABLE statements with constraints
+- `insert_sample_data.sql` — Sample data (users, workouts, plans, etc.)
+- `query_examples.sql` — Sample queries using JOINs, filters, etc.
+- `ER_Diagram.png` — Entity-Relationship diagram
+- `relational_schema.png` — Relational schema design
+
+## 📌 Technologies Used
+- MySQL
+- SQL (DDL & DML)
+- Draw.io (for ERD)
+
+## 🚀 Project Goals
+This project simulates a real-world backend database for a fitness platform. It includes multiple user roles, business logic, and data integrity enforcement to help users track their fitness goals securely and efficiently.
